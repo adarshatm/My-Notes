@@ -37,6 +37,10 @@ Slope -
 Normalization - variance 1 weight 0
 Linear activation function 
 
+
+
+Hyper Parameters:
+
 Vanishing Gradient 
 Exploding Gradient
 
