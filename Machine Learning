@@ -1,0 +1,6 @@
+Load Training Accuracy
+If there is lot of misscalssification, model built is called Under Fitting
+If there is moderate misscalssification, Just Fiting
+If there is no miss classification and more accurate- Over Fitting
+
+Convolutional Neural Networks - When we can not use regular neuron over more number of layers, we uses CNN
