@@ -36,6 +36,8 @@ Slope -
 
 Normalization - variance 1 weight 0
 Linear activation function 
+Softmax Regression - when we have more number of classification 
+
 
 Vanishing Gradient 
 Exploding Gradient
