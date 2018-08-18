@@ -37,6 +37,19 @@ Slope -
 Normalization - variance 1 weight 0
 Linear activation function 
 
+Vanishing Gradient 
+Exploding Gradient
+
+
+
+Xavier initialization
+Sigmoid Function - Vanishing Gradient during back propagation
+
+Gradient Checking - check back propagation is happening or not  
+
+
+Hyper Parameters:
+
 
 
 Hyper Parameters:
