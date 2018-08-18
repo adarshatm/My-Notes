@@ -4,3 +4,18 @@ If there is moderate misscalssification, Just Fiting
 If there is no miss classification and more accurate- Over Fitting
 
 Convolutional Neural Networks - When we can not use regular neuron over more number of layers, we uses CNN
+Training Dataset
+Development Dataset
+Test Dataset
+Data points
+
+Online Learning - If your training data poins are keeps changing after deployment in PROD, u can use online learning training technique to save datapoints earlier and train with new data contineusly
+
+High Varience ->  Training Error 1% and Test Error - 11%
+High Bias  -> Training error - 15% and test error  - 10%
+High Bias & Varience -- Worst result -> -> Training error - 15% and test error  - 30%
+Low Bias & varience  -- Best result  -- This should be the expected result. -> -> Training error - 0.5% and test error  - 1%
+
+Cost Function: 
+
+Suffling Distribution -> To make sure random data distribusion which is good to identify all data points
